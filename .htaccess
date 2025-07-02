@@ -1,0 +1,4 @@
+<files main.dart>
+ Options +ExecCGI
+ SetHandler cgi-script
+</files>
