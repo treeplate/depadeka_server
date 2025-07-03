@@ -11,8 +11,7 @@ line 1:
   - 4: place piece from cementary on 4 tile of queue (there can be two of these)
 
 each following line:
-- one or two characters representing a piece-orientation combo (^A is upleft, A^ is upright, A꘍ is downright, ꘍A is downleft, for orthogonal rotation it's just rotating the piece, like Aᗆᗄᗉ, a CᑎƆU, cnɔu, c̱ṉɔ̱u̱, B⏔ᗺߘ, bᓂqᓗ)
-<!-- TODO: K/k doesn't have a good rotation in unicode -->
+- one or two characters representing a piece-orientation combo (^A is upleft, A^ is upright, A꘍ is downright, ꘍A is downleft, AA is up, A> is right, AV is down, A< is left)
 - w for white or b for black
 - a space
 - a space separated list of squares (in typical notation of a1 for bottom left, m15 for top right, a0-m0 and a16-m16 being the revival squares, below 0 and above 16 being the cementary)
