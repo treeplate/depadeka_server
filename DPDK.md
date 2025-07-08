@@ -4,6 +4,7 @@ line 1:
 - a space
 - all the possible move types left:
   - n: non-monarch movement
+  - t: rotate (turn)
   - m: monarch movement
   - r: recovery tile (there can be two of these)
   - p: place resource on your row
