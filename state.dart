@@ -13,12 +13,12 @@ typedef GameState = ({
 String rotate180(String piece) {
   if (piece.contains('^')) {
     if (piece[0] == '^') {
-      return piece.substring(1) + '꘍';
+      return piece.substring(1) + '_';
     }
-    return '꘍' + piece.substring(0, piece.length - 1);
+    return '_' + piece.substring(0, piece.length - 1);
   }
-  if (piece.contains('꘍')) {
-    if (piece[0] == '꘍') {
+  if (piece.contains('_')) {
+    if (piece[0] == '_') {
       return piece.substring(1) + '^';
     }
     return '^' + piece.substring(0, piece.length - 1);
