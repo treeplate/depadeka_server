@@ -1,21 +1,21 @@
 1w ntm
 LAw a1 b1 l1 m1
 MAw c1 k2
-AAw d1 i1
-DAw g1
+AAw d2 i2
+DAw f2
 ^Gw k1
 WAw a2 b2 l2 m2
 G^w c2
 KAw a3 b3 l3 m3
 CAw c3 d3 e3 i3 j3 k3 a4 b4 l4 m4
-BAw g4
+BAw f3
 LVb m16 l16 b16 a16
 MVb k16 c15
-AVb j16 e16
-DVb g16
+AVb j15 e15
+DVb h15
 G_b c16
 WVb m15 l15 b15 a15
 _Gb k15
 KVb m14 l14 b14 a14
 CVb k14 j14 i14 e14 d14 c14 m13 l13 b13 a13
-BVb g13
+BVb h14

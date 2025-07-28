@@ -1,0 +1,2 @@
+# depadeka_server
+See full documentation at [treeplate/depadeka_server](https://github.com/treeplate/depadeka_server), the github repo for this project. This only has a subset of files needed to run the server.
